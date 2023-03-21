@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "img": "../images/for-honor.jpg",
+      "gametitle": "For Honor"
+    },
+    {
+      "img": "../images/OddBallers_gamecard-v2.jpg",
+      "gametitle": "The OddBallers"
+    },
+    {
+      "img": "../images/rkb2-game_info-boxart-keyart-01-560x698-logo_Tablet-_1_.jpg",
+      "gametitle": "Mario + Rabbids"
+    },
+    {
+      "img": "../images/RPR_Packshot_465x608v1.jpg",
+      "gametitle": "Heartland"
+    },
+    {
+      "img": "../images/skull-and-bones.jpg",
+      "gametitle": "Skull and Bones"
+    },
+    {
+      "img": "../images/Boxshot.png",
+      "gametitle": "The Settlers"
+    },
+    {
+      "img": "../images/brawlhalla.jpg",
+      "gametitle": "Brawlhalla"
+    },
+    {
+      "img": "../images/anno-1800.jpg",
+      "gametitle": "Anno 1800"
+    },
+    {
+      "img": "../images/rsplus-game_info-boxart-keyart-02-348x434.jpg",
+      "gametitle": "Rocksmith"
+    }
+  ]
+}
